@@ -1,0 +1,8 @@
+[ docker pull winsent/geoserver:2.10 ]
+
+git clone https://github.com/IkeShoeman/domain_testdata.git 
+
+docker run --name geoserver --restart=always -d -p 8080:8080 -v /home/thor/develop/data/gis/domain_testdata:/opt/geoserver/data_dir winsent/geoserver
+
+docker stop geoserver
+docker rm -f geoserver  
