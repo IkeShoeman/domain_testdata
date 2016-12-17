@@ -1,0 +1,91 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--4f04b2af:1590e17337e:-7fe1</id>
+  <name>domain_small</name>
+  <nativeName>domain_small</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--4f04b2af:1590e17337e:-7fe4</id>
+  </namespace>
+  <title>domain_small</title>
+  <keywords>
+    <string>domain_small</string>
+    <string>features</string>
+  </keywords>
+  <nativeCRS class="projected">PROJCS[&quot;DHDN_3_degree_Gauss_Kruger_zone_3_E_N&quot;, 
+  GEOGCS[&quot;GCS_DHDN&quot;, 
+    DATUM[&quot;D_Deutsches_Hauptdreiecksnetz&quot;, 
+      SPHEROID[&quot;Bessel_1841&quot;, 6377397.155, 299.1528128]], 
+    PRIMEM[&quot;Greenwich&quot;, 0.0], 
+    UNIT[&quot;degree&quot;, 0.017453292519943295], 
+    AXIS[&quot;Longitude&quot;, EAST], 
+    AXIS[&quot;Latitude&quot;, NORTH]], 
+  PROJECTION[&quot;Transverse_Mercator&quot;], 
+  PARAMETER[&quot;central_meridian&quot;, 9.0], 
+  PARAMETER[&quot;latitude_of_origin&quot;, 0.0], 
+  PARAMETER[&quot;scale_factor&quot;, 1.0], 
+  PARAMETER[&quot;false_easting&quot;, 3500000.0], 
+  PARAMETER[&quot;false_northing&quot;, 0.0], 
+  UNIT[&quot;m&quot;, 1.0], 
+  AXIS[&quot;x&quot;, EAST], 
+  AXIS[&quot;y&quot;, NORTH]]</nativeCRS>
+  <srs>EPSG:5677</srs>
+  <nativeBoundingBox>
+    <minx>-2.8E-15</minx>
+    <maxx>592.0</maxx>
+    <miny>29.99999999999999</miny>
+    <maxy>450.0</maxy>
+    <crs class="projected">PROJCS[&quot;DHDN_3_degree_Gauss_Kruger_zone_3_E_N&quot;, 
+  GEOGCS[&quot;GCS_DHDN&quot;, 
+    DATUM[&quot;D_Deutsches_Hauptdreiecksnetz&quot;, 
+      SPHEROID[&quot;Bessel_1841&quot;, 6377397.155, 299.1528128]], 
+    PRIMEM[&quot;Greenwich&quot;, 0.0], 
+    UNIT[&quot;degree&quot;, 0.017453292519943295], 
+    AXIS[&quot;Longitude&quot;, EAST], 
+    AXIS[&quot;Latitude&quot;, NORTH]], 
+  PROJECTION[&quot;Transverse_Mercator&quot;], 
+  PARAMETER[&quot;central_meridian&quot;, 9.0], 
+  PARAMETER[&quot;latitude_of_origin&quot;, 0.0], 
+  PARAMETER[&quot;scale_factor&quot;, 1.0], 
+  PARAMETER[&quot;false_easting&quot;, 3500000.0], 
+  PARAMETER[&quot;false_northing&quot;, 0.0], 
+  UNIT[&quot;m&quot;, 1.0], 
+  AXIS[&quot;x&quot;, EAST], 
+  AXIS[&quot;y&quot;, NORTH]]</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-20.963155711187042</minx>
+    <maxx>-20.958554631099023</maxx>
+    <miny>0.0042064615434965</miny>
+    <maxy>0.0074937587345425</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, 
+  DATUM[&quot;WGS84&quot;, 
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="time">
+      <dimensionInfo>
+        <enabled>false</enabled>
+        <defaultValue/>
+      </dimensionInfo>
+    </entry>
+    <entry key="elevation">
+      <dimensionInfo>
+        <enabled>false</enabled>
+      </dimensionInfo>
+    </entry>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--4f04b2af:1590e17337e:-7fe3</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

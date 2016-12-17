@@ -1,0 +1,22 @@
+<dataStore>
+  <id>DataStoreInfoImpl--4f04b2af:1590e17337e:-7fe3</id>
+  <name>domain_small</name>
+  <type>Shapefile</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--4f04b2af:1590e17337e:-7fe5</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="memory mapped buffer">true</entry>
+    <entry key="timezone">Etc/UTC</entry>
+    <entry key="fstype">shape</entry>
+    <entry key="create spatial index">true</entry>
+    <entry key="charset">ISO-8859-1</entry>
+    <entry key="filetype">shapefile</entry>
+    <entry key="enable spatial index">true</entry>
+    <entry key="cache and reuse memory maps">true</entry>
+    <entry key="url">file:domain_small/domain_small.shp</entry>
+    <entry key="namespace">http://localhost:8080/testdomains</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>
